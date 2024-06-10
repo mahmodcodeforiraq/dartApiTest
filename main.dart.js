@@ -5011,7 +5011,7 @@ s="GET".toUpperCase()
 if(s==="GET")r.push(A.vr("HEAD","/health",q,$.ye()))
 r.push(A.vr(s,"/health",q,null))
 q=A.Dx()
-A.rI(new A.pz(q,new A.eN().glU()).eu(new A.ia(r).gfd()),"webdevapi.000webhostapp.com",443).aV(new A.rA(),t.P)},
+A.rI(new A.pz(q,new A.eN().glU()).eu(new A.ia(r).gfd()),"assorted-smoggy-impala.glitch.me",443).aV(new A.rA(),t.P)},
 id:function id(){},
 rA:function rA(){},
 yL(a){return new A.cE(new A.kd(),A.w(t.N,a.h("t<b,0>")),a.h("cE<0>"))},
